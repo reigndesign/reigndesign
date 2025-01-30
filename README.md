@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **reigndesign/reigndesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<ion-icon name="rocket-outline" style="font-size: 48px; color: red;"></ion-icon>
+<h1 style="font-size: 28px;">Adetunji Adeleye</h1>
