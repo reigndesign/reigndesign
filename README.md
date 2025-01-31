@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" dir="auto">
-  <a href="https://www.youtube.com/c/DevProTips" rel="nofollow"><img width="32px" alt="Youtube" title="Youtube" src="https://camo.githubusercontent.com/75a3908e17ef38f56cb7bcdb0f4837404d6091a95ce3d82e4ad15ebb42bf404e/68747470733a2f2f692e696d6775722e636f6d2f716958753762322e706e67" data-canonical-src="https://i.imgur.com/qiXu7b2.png" style="max-width: 100%;"></a>
+  <a href="https://www.youtube.com/c/reigndesign" rel="nofollow"><img width="32px" alt="Youtube" title="Youtube" src="https://camo.githubusercontent.com/75a3908e17ef38f56cb7bcdb0f4837404d6091a95ce3d82e4ad15ebb42bf404e/68747470733a2f2f692e696d6775722e636f6d2f716958753762322e706e67" data-canonical-src="https://i.imgur.com/qiXu7b2.png" style="max-width: 100%;"></a>
        
   <a href="https://www.linkedin.com/in/oluwagbenga-adeleye/" rel="nofollow"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://camo.githubusercontent.com/0de353181b0ff4de7ab59c053a3f03a1e5476ad248f4661ba7da35241ab0cc45/68747470733a2f2f692e696d6775722e636f6d2f795270613164512e706e67" data-canonical-src="https://i.imgur.com/yRpa1dQ.png" style="max-width: 100%;"></a>
        
@@ -13,7 +13,7 @@
        
   <a href="https://discord.gg/igbengoos" alt="Discord" title="reigndesign Discord Server" rel="nofollow"><img width="32px" src="https://camo.githubusercontent.com/b3284151956c16697ab33ab3abb8870a3c5ca70cc98fed05a30ff53318809bcc/68747470733a2f2f692e696d6775722e636f6d2f4f56695a4f384a2e706e67" data-canonical-src="https://i.imgur.com/OViZO8J.png" style="max-width: 100%;"></a>
        
-  <a href="https://dev.to/igbengoos" rel="nofollow"><img width="32px" alt="Dev.to" title="reigndesign Dev.to" src="https://camo.githubusercontent.com/c0f23ca9cec4e18ec92c89a005be26fd884cd9436ebd910e15c2345094f072b4/68747470733a2f2f692e696d6775722e636f6d2f6d566d3239764b2e706e67" data-canonical-src="https://i.imgur.com/mVm29vK.png" style="max-width: 100%;"></a>
+  <a href="https://dev.to/reigndesign" rel="nofollow"><img width="32px" alt="Dev.to" title="reigndesign Dev.to" src="https://camo.githubusercontent.com/c0f23ca9cec4e18ec92c89a005be26fd884cd9436ebd910e15c2345094f072b4/68747470733a2f2f692e696d6775722e636f6d2f6d566d3239764b2e706e67" data-canonical-src="https://i.imgur.com/mVm29vK.png" style="max-width: 100%;"></a>
        
   <a href="https://ko-fi.com/igbengoos" rel="nofollow"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://camo.githubusercontent.com/15e9fab2ef21e5f5c91450da7dc0c9a41a27b2ef708d5fec86f46fcb0a2a0f73/68747470733a2f2f692e696d6775722e636f6d2f50704c6544334b2e706e67" data-canonical-src="https://i.imgur.com/PpLeD3K.png" style="max-width: 100%;"></a>
 
@@ -23,12 +23,12 @@
 
 
 <p align="center" dir="auto">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1" rel="nofollow">
+  <a href="https://www.youtube.com/c/reigndesign?sub_confirmation=1" rel="nofollow">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/59040117b7729e922c11c252c1e7da8ebdabe9576433b9d635fee53229ba2892/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f796f75747562652d73746174732d6261646765732f73756273637269626572732d62616467652e706870" data-canonical-src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php" style="max-width: 100%;"></a>
-  <a href="https://www.youtube.com/c/DevProTips" rel="nofollow">
+  <a href="https://www.youtube.com/c/reigndesign" rel="nofollow">
     <img alt="youtube views" title="YouTube views" src="https://camo.githubusercontent.com/efdc18c853d86e2033410e16e12f9ec249a74f1879168f478b6d5554380b2356/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f796f75747562652d73746174732d6261646765732f766965772d636f756e742d62616467652e706870" data-canonical-src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php" style="max-width: 100%;"></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&amp;sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/c641cf5aa04b833501e341de17191cd812048506830bd18466f6d7a29dd96fd0/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f73746172732f44656e766572436f646572313f636f6c6f723d353539363063267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d343838323037266c6f676f3d73746172" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;"></a>
+  <a href="https://github.com/reigndesign?tab=repositories&amp;sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/c641cf5aa04b833501e341de17191cd812048506830bd18466f6d7a29dd96fd0/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f73746172732f44656e766572436f646572313f636f6c6f723d353539363063267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d343838323037266c6f676f3d73746172" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/reigndesign?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;"></a>
   <a href="https://github.com/reigndesign?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/ca66a8b8868d2e290d44d81c0eaa9fa5d8148a7913cebd041c86221c447bcd37/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f44656e766572436f646572313f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://github.com/reigndesign/Simple-View-Counter">
